@@ -1,0 +1,1 @@
+ALTER TABLE medicos add crm VARCHAR(6);
